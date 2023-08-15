@@ -65,6 +65,10 @@
                                 placeholder="enter the description">
                         </div>
                         <div class="form-group">
+                            <label>category</label>
+                            <input type="text" class="form-control" name="cat" placeholder="enter the category">
+                        </div>
+                        <div class="form-group">
                             <label>image</label>
                             <input type="text" class="form-control" name="img" placeholder="enter your img type">
                         </div>
